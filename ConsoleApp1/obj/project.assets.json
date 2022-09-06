@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sargo\\OneDrive\\Desktop\\Ashours-projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\sargo\\OneDrive\\Desktop\\Ashours-projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\sargo\\OneDrive\\Desktop\\Ashours-projects\\ConsoleApp1\\ConsoleApp1\\StringUtility.csproj",
+      "projectName": "StringUtility",
+      "projectPath": "C:\\Users\\sargo\\OneDrive\\Desktop\\Ashours-projects\\ConsoleApp1\\ConsoleApp1\\StringUtility.csproj",
       "packagesPath": "C:\\Users\\sargo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sargo\\OneDrive\\Desktop\\Ashours-projects\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

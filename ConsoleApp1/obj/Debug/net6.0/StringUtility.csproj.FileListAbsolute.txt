@@ -1,0 +1,15 @@
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StringUtility.exe
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StringUtility.deps.json
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StringUtility.runtimeconfig.json
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StringUtility.dll
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\StringUtility.pdb
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.csproj.AssemblyReference.cache
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.AssemblyInfoInputs.cache
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.AssemblyInfo.cs
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.csproj.CoreCompileInputs.cache
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.dll
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\StringUtility.dll
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.pdb
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\StringUtility.genruntimeconfig.cache
+C:\Users\sargo\OneDrive\Desktop\Ashours-projects\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\StringUtility.dll
